@@ -1,0 +1,13 @@
+header {
+    background-image:url(../img/fon-of-futer.jpg);
+    min-height: 200px;
+    background-size: cover;
+    background-position: center;
+}
+
+#home {
+    font-family: 'Architects Daughter', sans-serif;
+    font-size: 4rem;
+    text-align: center;
+    color: #ffef13;
+}
